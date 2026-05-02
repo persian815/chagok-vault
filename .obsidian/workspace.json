@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/2026-05-02-배포하고-삽질하고-블로그까지.md",
+                "file": "response/2026-05-03-컨설팅요청_답변.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-02-배포하고-삽질하고-블로그까지"
+              "title": "2026-05-03-컨설팅요청_답변"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2026-05-02-배포하고-삽질하고-블로그까지.md",
+                "file": "response/2026-05-03-컨설팅요청_답변.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-02-배포하고-삽질하고-블로그까지 의 개요"
+              "title": "2026-05-03-컨설팅요청_답변 의 개요"
             }
           },
           {
@@ -194,14 +194,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecc707d2f3dbe68b",
+  "active": "6465addc2419b241",
   "lastOpenFiles": [
-    "posts/2026-05-01-클로드의-코딩-일기.md",
+    "request/2026-05-03-컨설팅요청.md",
     "posts/2026-05-02-클로드의-코딩-일기.md",
     "posts/2026-05-02-옵시디언-GitHub-자동-동기화.md",
-    "posts/2026-05-01-알뜰살뜰-개발기.md",
-    "posts/2026-05-02-게스트-로그인-기능-추가.md",
     "posts/2026-05-02-배포하고-삽질하고-블로그까지.md",
+    "posts/2026-05-02-게스트-로그인-기능-추가.md",
+    "posts/2026-05-01-클로드의-코딩-일기.md",
+    "posts/2026-05-01-알뜰살뜰-개발기.md",
+    "response/2026-05-03-컨설팅요청_답변.md",
+    "response/2026-05-03-컨설팅요청.md",
+    "response",
+    "reponse",
+    "request",
     "posts/test.md",
     "README.md"
   ]
