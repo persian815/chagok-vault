@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "2026-05-02-옵시디언-GitHub-자동-동기화 의 개요"
             }
+          },
+          {
+            "id": "ecc707d2f3dbe68b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +196,10 @@
   },
   "active": "6465addc2419b241",
   "lastOpenFiles": [
-    "posts/2026-05-02-알뜰살뜰-개발기.md",
+    "posts/2026-05-02-배포하고-삽질하고-블로그까지.md",
+    "posts/2026-05-01-알뜰살뜰-개발기.md",
     "posts/2026-05-02-옵시디언-GitHub-자동-동기화.md",
+    "posts/test.md",
     "README.md"
   ]
 }
