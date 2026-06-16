@@ -25,14 +25,10 @@
             "id": "107be92270ad692a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_프로젝트/WPC/CLAUDE.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "새 탭"
             }
           }
         ],
@@ -211,13 +207,13 @@
   },
   "active": "107be92270ad692a",
   "lastOpenFiles": [
-    "06.아이디어요청/2026-06-14-요청-WPC.md",
+    "02_프로젝트/WPC/01_설계.md",
+    "02_프로젝트/WPC/00_개요.md",
     "02_프로젝트/WPC/CLAUDE.md",
+    "06.아이디어요청/2026-06-14-요청-WPC.md",
     "02_프로젝트/WPC/04_회고.md",
     "02_프로젝트/WPC/03_트러블슈팅.md",
     "02_프로젝트/WPC/02_기능목록.md",
-    "02_프로젝트/WPC/01_설계.md",
-    "02_프로젝트/WPC/00_개요.md",
     "02_프로젝트/WPC",
     "06.아이디어요청/2026-06-01-요청-러브일지.md",
     "무제.md",
