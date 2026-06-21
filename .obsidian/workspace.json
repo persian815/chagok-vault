@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e051de96f2dd929c",
+        "id": "926cdf8d7ed988d0",
         "type": "tabs",
         "children": [
           {
-            "id": "6465addc2419b241",
+            "id": "ab67db6313ac9673",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6465addc2419b241",
+  "active": "ab67db6313ac9673",
   "lastOpenFiles": [
     "03_프로젝트/chogok/03_트러블슈팅.md",
     "03_프로젝트/chogok/02_기능목록.md",
