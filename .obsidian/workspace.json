@@ -192,6 +192,13 @@
   },
   "active": "ab67db6313ac9673",
   "lastOpenFiles": [
+    "03_프로젝트/synologyPhotos/02_기능목록.md",
+    "03_프로젝트/synologyPhotos/01_설계.md",
+    "03_프로젝트/synologyPhotos/00_개요.md",
+    "03_프로젝트/synologyPhotos",
+    "02_기획/설계/2026-06-25-요청-시놀리지포토_설계.md",
+    "02_기획/요구사항/2026-06-25-요청-시놀리지포토.md",
+    "02_기획/요구사항/2026-06-17-요청-chagok copy.md",
     "03_프로젝트/chogok/03_트러블슈팅.md",
     "03_프로젝트/chogok/02_기능목록.md",
     "03_프로젝트/chogok/01_설계.md",
@@ -212,12 +219,6 @@
     "03_프로젝트/weddingCard/CLAUDE.md",
     "03_프로젝트/wpc/00_개요.md",
     "03_프로젝트/weddingCard/04_회고.md",
-    "03_프로젝트/weddingCard/03_트러블슈팅.md",
-    "03_프로젝트/weddingCard/02_기능목록.md",
-    "03_프로젝트/weddingCard/01_설계.md",
-    "03_프로젝트/weddingCard/00_개요.md",
-    "03_프로젝트/littleRecords/CLAUDE.md",
-    "03_프로젝트/littleRecords/04_회고.md",
     "03_프로젝트/wpc",
     "03_프로젝트/weddingCard",
     "03_프로젝트/littleRecords",
@@ -226,7 +227,6 @@
     "02_기획/요구사항",
     "02_기획/설계",
     "02_기획",
-    "02_프로젝트/weddingCard",
-    "02_프로젝트/모바일청첩장"
+    "02_프로젝트/weddingCard"
   ]
 }
