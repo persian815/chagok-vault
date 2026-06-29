@@ -11,10 +11,14 @@
             "id": "ab67db6313ac9673",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_기획/요구사항/2026-06-17-요청-chagok.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2026-06-17-요청-chagok"
             }
           }
         ]
@@ -192,6 +196,9 @@
   },
   "active": "ab67db6313ac9673",
   "lastOpenFiles": [
+    "02_기획/설계/2026-06-17-요청-chagok_설계.md",
+    "00_브랜드/프로젝트-로드맵.md",
+    "00_브랜드/차곡-브랜드가이드.md",
     "03_프로젝트/synologyPhotos/02_기능목록.md",
     "03_프로젝트/synologyPhotos/01_설계.md",
     "03_프로젝트/synologyPhotos/00_개요.md",
@@ -203,7 +210,6 @@
     "03_프로젝트/chogok/02_기능목록.md",
     "03_프로젝트/chogok/01_설계.md",
     "03_프로젝트/chogok/00_개요.md",
-    "02_기획/설계/2026-06-17-요청-chagok_설계.md",
     "02_기획/요구사항/2026-06-17-요청-chagok.md",
     "03_프로젝트/dayOne/CLAUDE.md",
     "03_프로젝트/dayOne/04_회고.md",
@@ -217,8 +223,6 @@
     "03_프로젝트/wpc/02_기능목록.md",
     "03_프로젝트/wpc/01_설계.md",
     "03_프로젝트/weddingCard/CLAUDE.md",
-    "03_프로젝트/wpc/00_개요.md",
-    "03_프로젝트/weddingCard/04_회고.md",
     "03_프로젝트/wpc",
     "03_프로젝트/weddingCard",
     "03_프로젝트/littleRecords",
